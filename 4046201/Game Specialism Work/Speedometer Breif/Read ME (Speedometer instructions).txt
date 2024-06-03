@@ -1,0 +1,26 @@
+For the Speedometer You can click on Canvas, Speedometer and then needle
+Here in the inspector you can see how fast the bike is going in mph 
+as well as seeing how fast it goes on the speedometer in the Game.
+
+There is a script linked to the needle of the speedometer
+this script calculates the bikes speed in Meters per Secound 
+Then turns it into mph and then turns the needle based on that 
+as well as displays the speed in the inspector
+the bikes max speed is 160 mph
+
+the script on the bike (car) is a simple script which allows us to use our controls. 
+ 
+Controls: 
+
+To go Right (Foward) is: D
+To go left (Backwards) is: A 
+
+the longer you press the controls the faster you will go till you either
+hit the wall or let go of the key
+
+there are cubes around the bike
+so the bike will never flyout the camera view.
+
+These Instuctions Can Also Be Seen In Unity
+
+Enjoy! 

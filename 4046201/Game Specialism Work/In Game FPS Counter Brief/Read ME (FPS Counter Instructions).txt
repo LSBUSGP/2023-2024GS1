@@ -1,0 +1,24 @@
+For the FPS Counter to work you will need textMeshPro (TMP)
+
+The Fps counter runs of a script which is attached to the canvas 
+The Canvas used the "Text (TMP)" to display the text
+This is all attached to the camera 
+
+To see the fps work you can just press play 
+it will show up on the top left of your screen 
+
+Controls: 
+
+To go foward is: W
+To go backwards is: S
+To go Right is: D
+To go left is: A 
+
+And you can use the mouse to look around
+
+You will see the shader working when looking around and i left objects in the middle 
+you can see the shader work better on. 
+
+These Instuctions Can Also Be Seen In Unity
+
+Enjoy! 

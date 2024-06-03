@@ -1,0 +1,27 @@
+The Shader graph has the outline metarial attached
+
+The outline meterial is then attached to the "URP – HighFidelity-Rederer" found in settings
+
+which works though a pass metarial in the "Full Screen Pass Renderer Feature"
+
+If you want to change the outline color go to materials and click on the outline
+
+then "Outline Color" you can change the colour there
+
+as well as the "Color Threshold" and the "Normal Theshold"
+
+You can press play and move around 
+
+To go foward is: W
+To go backwards is: S
+To go Right is: D
+To go left is: A 
+
+And you can use the mouse to look around
+
+You will see the shader working when looking around and i left objects in the middle 
+you can see the shader work better on. 
+
+These Instuctions Can Also Be Seen In Unity
+
+Enjoy! 

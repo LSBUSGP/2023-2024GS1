@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 5873494513f6a144aad33e0f4693938e
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: copper
+    second: {fileID: 2100000, guid: 5801714fbce9a654f8ad8284733e6cee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crown_heads
+    second: {fileID: 2100000, guid: b345a382b75823c468e1f2bcf2393ae9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crown_tails
+    second: {fileID: 2100000, guid: 5d1c17f5c7455da459587421333f584f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dark_silver
+    second: {fileID: 2100000, guid: 910fe4533864d9a47acec17bce95672b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: double_florin_heads
+    second: {fileID: 2100000, guid: 9ec0a11a09769a44dbafae13b1f96d69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: double_florin_tails
+    second: {fileID: 2100000, guid: d00257f9d5019c647a9c3f1f4a5cfb2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: farthing_heads
+    second: {fileID: 2100000, guid: 94c9783fda118e14aabd731f6d1f63d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: farthing_tails
+    second: {fileID: 2100000, guid: a2d03f26c626d0748a8caa0be7cad3ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: five_guineas_heads
+    second: {fileID: 2100000, guid: 60aa885fd7d8b8f49b9a9f2a0783d80d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: five_guineas_tails
+    second: {fileID: 2100000, guid: 60d53a7ab64628647a6d2cc2b13d8250, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: five_pounds_heads
+    second: {fileID: 2100000, guid: e706bdea2f619aa4f872b1c99a01c75a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: five_pounds_tails
+    second: {fileID: 2100000, guid: 37304c8ce112dbd4fb9510672b6cfce2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: florin_heads
+    second: {fileID: 2100000, guid: dee4df640a594ae43b6c44b74d4f9a7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: florin_tails
+    second: {fileID: 2100000, guid: f94e620ed53189747b0e0f71c2992810, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fourpence_heads
+    second: {fileID: 2100000, guid: 4655f716d03210743bf1c51534868da1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fourpence_tails
+    second: {fileID: 2100000, guid: 3d1f97a8229bfc54bb1fd0a8564a7927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gold
+    second: {fileID: 2100000, guid: 106a751b73f4d8847bf6c284ed500862, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: guinea_heads
+    second: {fileID: 2100000, guid: be7f8c97f5975e64f8810f5aae5b7184, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: guinea_tails
+    second: {fileID: 2100000, guid: 2705a281503c73549b4bf28f8971d330, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: half_crown_heads
+    second: {fileID: 2100000, guid: 8110deaba8e801d458816a6c1c4615dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: half_crown_tails
+    second: {fileID: 2100000, guid: 3d7c88968b5dfca408a435581d36ce14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: half_guinea_heads
+    second: {fileID: 2100000, guid: fb0178a546a11c8419ab36f468f4c277, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: half_guinea_tails
+    second: {fileID: 2100000, guid: f14f16149bd4be648a55c0ff6d6c64af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: half_sovereign_heads
+    second: {fileID: 2100000, guid: dd589d99ff453d94081adee5b120d76e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: half_sovereign_tails
+    second: {fileID: 2100000, guid: 8fa7c40721aadb4498947518b887e710, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: halfpenny_heads
+    second: {fileID: 2100000, guid: e39f0d989bb99d941851cef9833508c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: halfpenny_tails
+    second: {fileID: 2100000, guid: b48114ca7f8032649b344082f4597170, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light_silver
+    second: {fileID: 2100000, guid: 182709a1ac05b5f4f8675879bbd98abf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: penny_heads
+    second: {fileID: 2100000, guid: 8d68887b0c46ccf4d98e8dff19580977, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: penny_tails
+    second: {fileID: 2100000, guid: d9968f83b1ca4fa47aa7b0f5c0c12b0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: quarter_guinea_heads
+    second: {fileID: 2100000, guid: 1eafed69c6544b046a226d4dd4c5305f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: quater_guinea_tails
+    second: {fileID: 2100000, guid: 36fcae5e958c41c46bca759112f88087, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shilling_heads
+    second: {fileID: 2100000, guid: 1069a3c16779be546b9a41aff2596970, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shilling_tails
+    second: {fileID: 2100000, guid: df287db9c3ab73c4693e90f9fa45dbd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sixpence_heads
+    second: {fileID: 2100000, guid: aedb70a41284c1549bdd314fc0df0f45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sixpence_tails
+    second: {fileID: 2100000, guid: e224c06be6adc61478f08e1caf23ff39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sovereign_heads
+    second: {fileID: 2100000, guid: f1e396463f0e7e74492c90f2115fac3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sovereign_tails
+    second: {fileID: 2100000, guid: f79d3ae4b50fa494ebbddcd6ef98fcd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: third_guinea_heads
+    second: {fileID: 2100000, guid: 2095d7f2fe6600a4784f51a21e1e9bdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: third_guinea_tails
+    second: {fileID: 2100000, guid: 43e19a9ba415cbe449ef45d8c96e77d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: threepence_heads
+    second: {fileID: 2100000, guid: 822cdf76bfcb5244ab26b6351ca5de3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: threepence_tails
+    second: {fileID: 2100000, guid: 6221ab16f6fe4f44889331d076d5a3b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: two_guineas_heads
+    second: {fileID: 2100000, guid: ac13575f093415a49bc45c9b9f86a539, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: two_guineas_tails
+    second: {fileID: 2100000, guid: 0566edf13717ccf45b8ae857a34c6539, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twopence_heads
+    second: {fileID: 2100000, guid: f8bb7c04d0b143249b48118eee859527, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twopence_tails
+    second: {fileID: 2100000, guid: dba507485daf29344b5b8fda72c191c4, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
